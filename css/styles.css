@@ -1,0 +1,23 @@
+body {
+  background-color: #C2FFF9;
+  color: black;
+  font-family: sans-serif;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-width: 7px;
+  height: 1px;
+  width: 3%;
+  padding: 10px 10px 10px 10px;
+  color: #C85C5C;
+}
+
+h3 {
+  color: #C85C5C;
+}
+
+h1 {
+  color: #009DAE;
+
+}
